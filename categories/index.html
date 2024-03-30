@@ -30,10 +30,10 @@
 
 <html
   class="not-ready lg:text-base"
-  style="--bg: #faf8f1"
+  style="--bg: #fff"
   lang="en-us"
 >
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
   <meta charset="utf-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta
@@ -42,7 +42,7 @@
   />
 
   
-  <title>Categories - My New Hugo Site</title>
+  <title>Categories - Shizhou Homepage</title>
 
   
   <meta name="theme-color" />
@@ -56,7 +56,7 @@
     name="description"
     content="A personal blog"
   />
-  <meta name="author" content="My New Hugo Site" />
+  <meta name="author" content="Shizhou Homepage" />
   
 
   
@@ -65,25 +65,18 @@
   
   
   
-  <link rel="preload stylesheet" as="style" href="http://localhost:1313/main.min.css" />
+  <link rel="preload stylesheet" as="style" href="/main.min.css" />
 
   
   
   
   
   
-  <link rel="preload" as="image" href="http://localhost:1313/theme.png" />
+  <link rel="preload" as="image" href="/theme.png" />
 
   
   
   
-  
-  
-
-  
-  
-  
-
   
   
 
@@ -92,13 +85,47 @@
   
 
   
-  <link rel="icon" href="http://localhost:1313/favicon.ico" />
-  <link rel="apple-touch-icon" href="http://localhost:1313/apple-touch-icon.png" />
+  
+
+  
+  
+  
+
+  
+  <link rel="icon" href="/favicon.ico" />
+  <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
 
   
   <meta name="generator" content="Hugo 0.124.1">
 
   
+  
+  
+  
+  
+  <meta itemprop="name" content="Categories">
+<meta itemprop="description" content="">
+  
+  <meta property="og:title" content="Categories" />
+<meta property="og:description" content="" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="/categories/" />
+
+  
+  <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Categories"/>
+<meta name="twitter:description" content=""/>
+
+  
+  
+  <link
+    rel="alternate"
+    type="application/rss&#43;xml"
+    href="/categories/index.xml"
+    title="Shizhou Homepage"
+  />
+  
+  
+  <link rel="canonical" href="/categories/" />
   
   
 </head>
@@ -108,8 +135,8 @@
   <div class="relative z-50 mr-auto flex items-center">
     <a
       class="-translate-x-[1px] -translate-y-[1px] text-2xl font-semibold"
-      href="http://localhost:1313/"
-      >My New Hugo Site</a
+      href="/"
+      >Shizhou Homepage</a
     >
     <div
       class="btn-dark text-[0] ml-4 h-6 w-6 shrink-0 cursor-pointer [background:url(./theme.png)_left_center/_auto_theme('spacing.6')_no-repeat] [transition:_background-position_0.4s_steps(5)] dark:[background-position:right]"
@@ -141,7 +168,7 @@
 
     
     const metaTheme = document.querySelector('meta[name="theme-color"]');
-    const lightBg = '#faf8f1'.replace(/"/g, '');
+    const lightBg = '#fff'.replace(/"/g, '');
     const setDark = (isDark) => {
       metaTheme.setAttribute('content', isDark ? '#000' : lightBg);
       htmlClass[isDark ? 'add' : 'remove']('dark');
@@ -173,6 +200,16 @@
     class="nav-wrapper fixed inset-x-0 top-full z-40 flex h-full select-none flex-col justify-center pb-16 duration-200 dark:bg-black lg:static lg:h-auto lg:flex-row lg:!bg-transparent lg:pb-0 lg:transition-none"
   >
     
+    
+    <nav class="lg:ml-12 lg:flex lg:flex-row lg:items-center lg:space-x-6">
+      
+      <a
+        class="block text-center text-2xl leading-[5rem] lg:text-base lg:font-normal"
+        href="/about/"
+        >About</a
+      >
+      
+    </nav>
     
 
     
@@ -206,7 +243,7 @@
 >
   <div class="mr-auto">
     &copy; 2024
-    <a class="link" href="http://localhost:1313/">My New Hugo Site</a>
+    <a class="link" href="/">Shizhou Homepage</a>
   </div>
   <a class="link mx-6" href="https://gohugo.io/" rel="noopener" target="_blank"
     >Powered by Hugo️️</a
