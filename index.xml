@@ -1,26 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shizhou Homepage</title>
-    <link>/</link>
+    <link>https://www.shizhou.dev/</link>
     <description>Recent content on Shizhou Homepage</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 30 Mar 2024 08:01:59 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Start Write</title>
-      <link>/post/start-write/</link>
-      <pubDate>Sat, 30 Mar 2024 08:01:59 +0000</pubDate>
-      <guid>/post/start-write/</guid>
-      <description>I am working on to pick up the writing habit.</description>
-    </item>
-    <item>
-      <title>About me</title>
-      <link>/about/</link>
-      <pubDate>Sat, 30 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>/about/</guid>
-      <description>Personal website</description>
-    </item>
+    <language>en-us</language>
+    <atom:link href="https://www.shizhou.dev/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
