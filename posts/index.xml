@@ -4,7 +4,7 @@
     <title>Posts on Shizhou Homepage</title>
     <link>https://shizhou91.github.io/posts/</link>
     <description>Recent content in Posts on Shizhou Homepage</description>
-    <generator>Hugo -- 0.127.0</generator>
+    <generator>Hugo -- 0.128.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://shizhou91.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +13,11 @@
       <link>https://shizhou91.github.io/posts/build-homepage-with-hugo-github-pages/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://shizhou91.github.io/posts/build-homepage-with-hugo-github-pages/</guid>
-      <description>Instruction I built we homepage hosted in the Github pages. The framework I use is Hugo.
-Create static website with Hugo Hugo is used to generate
-hugo new -yaml Theme Hugo has lots of themes for the website. For this website I choose PaperMod. It has very simple and clean pages.
-Github The benifits of deploying the static website are:
-It&amp;rsquo;s free. It&amp;rsquo;s fast enough for a homepage. Test the flow of update the post.</description>
+      <description>Instruction I built a homepage hosted in the Github pages with Hugo.
+Install Hugo Please follow this link to install Hugo. My platform is Ubuntu and I use the following command line installing Hugo
+sudo snap install hugo Create the static website Use the hugo command to create your static website.
+hugo new site homepage --format yaml Run the below command to have a test locally.
+hugo server Create a homepage in Github The benifits of deploying the static website are:</description>
     </item>
   </channel>
 </rss>
