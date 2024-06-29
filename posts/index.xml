@@ -17,7 +17,7 @@
 Create static website with Hugo Hugo is used to generate
 hugo new -yaml Theme Hugo has lots of themes for the website. For this website I choose PaperMod. It has very simple and clean pages.
 Github The benifits of deploying the static website are:
-It&amp;rsquo;s free. It&amp;rsquo;s fast enough for a homepage. </description>
+It&amp;rsquo;s free. It&amp;rsquo;s fast enough for a homepage. Test the flow of update the post.</description>
     </item>
   </channel>
 </rss>
