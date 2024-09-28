@@ -6,8 +6,16 @@
     <description>Recent content in Hugo on Shizhou Homepage</description>
     <generator>Hugo -- 0.135.0</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://shizhou91.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Need a Home Server</title>
+      <link>https://shizhou91.github.io/posts/why-i-need-a-home-server/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://shizhou91.github.io/posts/why-i-need-a-home-server/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Home server&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Build homepage on Github pages with Hugo Framework</title>
       <link>https://shizhou91.github.io/posts/build-homepage-with-hugo-github-pages/</link>
