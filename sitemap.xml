@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shizhou91.github.io/tags/home-server/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shizhou91.github.io/posts/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shizhou91.github.io/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shizhou91.github.io/tags/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shizhou91.github.io/posts/why-i-need-a-home-server/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://shizhou91.github.io/posts/build-homepage-with-hugo-github-pages/</loc>
     <lastmod>2024-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shizhou91.github.io/tags/hugo/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shizhou91.github.io/posts/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shizhou91.github.io/</loc>
-    <lastmod>2024-03-31T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shizhou91.github.io/tags/</loc>
     <lastmod>2024-03-31T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shizhou91.github.io/archives/</loc>

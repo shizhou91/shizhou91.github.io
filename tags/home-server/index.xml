@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Home Server on Shizhou Homepage</title>
+    <link>https://shizhou91.github.io/tags/home-server/</link>
+    <description>Recent content in Home Server on Shizhou Homepage</description>
+    <generator>Hugo -- 0.135.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://shizhou91.github.io/tags/home-server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Need a Home Server</title>
+      <link>https://shizhou91.github.io/posts/why-i-need-a-home-server/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://shizhou91.github.io/posts/why-i-need-a-home-server/</guid>
+      <description>&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Home server&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
