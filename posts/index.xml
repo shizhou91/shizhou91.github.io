@@ -14,7 +14,7 @@
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
       <guid>https://shizhou91.github.io/posts/build-homepage-with-hugo-github-pages/</guid>
       <description>&lt;h2 id=&#34;instruction&#34;&gt;Instruction&lt;/h2&gt;
-&lt;p&gt;I built a homepage hosted in the Github pages with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Here is how to setup a homepage hosted in the Github pages with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;install-hugo&#34;&gt;Install Hugo&lt;/h2&gt;
 &lt;p&gt;Please follow this &lt;a href=&#34;https://gohugo.io/installation/&#34;&gt;link&lt;/a&gt; to install Hugo. My platform is Ubuntu and I use the following command line installing Hugo&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo snap install hugo
