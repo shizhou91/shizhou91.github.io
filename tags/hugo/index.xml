@@ -9,19 +9,14 @@
     <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://shizhou91.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Develop writing habit</title>
-      <link>https://shizhou91.github.io/posts/develop-writing-habit/</link>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://shizhou91.github.io/posts/develop-writing-habit/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Why I Need a Home Server</title>
       <link>https://shizhou91.github.io/posts/why-i-need-a-home-server/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://shizhou91.github.io/posts/why-i-need-a-home-server/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;Home server&lt;/p&gt;</description>
+&lt;p&gt;Home server&lt;/p&gt;
+&lt;h3 id=&#34;writing&#34;&gt;Writing&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s more easy to writing every where. I build a website with Hugo and Github pages. Then I set the set workspace on my linux server. At the same time, I build a visual code server. I could access this code server anywhere. The coder server will save the status of editing. Just continue my article anywhere. Comparing to setup the env in a sepcific laptop, I only could edit and deploy on that laptop.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Build homepage on Github pages with Hugo Framework</title>
