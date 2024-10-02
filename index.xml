@@ -9,20 +9,6 @@
     <lastBuildDate>Sat, 28 Sep 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://shizhou91.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>https://shizhou91.github.io/posts/develop-writing-habit/</link>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://shizhou91.github.io/posts/develop-writing-habit/</guid>
-      <description>&lt;h2 id=&#34;为什么有这篇文章&#34;&gt;为什么有这篇文章&lt;/h2&gt;
-&lt;p&gt;希望自己加强写作的习惯，我觉得写作对我的生活产生影响&lt;/p&gt;
-&lt;h2 id=&#34;休闲&#34;&gt;休闲&lt;/h2&gt;
-&lt;p&gt;现在的休闲方式对大脑的刺激太大，和太零碎了。 当我写作出一些东西的时候。&lt;/p&gt;
-&lt;h2 id=&#34;美&#34;&gt;美&lt;/h2&gt;
-&lt;p&gt;当你写文一个东西的时候，看到其排版，你会觉得非常的漂亮，很美丽。每个段落都有了意义，不仅仅是一堆文字了。&lt;/p&gt;
-&lt;h2 id=&#34;思考&#34;&gt;思考&lt;/h2&gt;
-&lt;p&gt;每天我们的大脑都会不停的运行，&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Why I Need a Home Server</title>
       <link>https://shizhou91.github.io/posts/why-i-need-a-home-server/</link>
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
@@ -31,6 +17,20 @@
 &lt;p&gt;Home server&lt;/p&gt;
 &lt;h3 id=&#34;writing&#34;&gt;Writing&lt;/h3&gt;
 &lt;p&gt;It&amp;rsquo;s more easy to writing every where. I build a website with Hugo and Github pages. Then I set the set workspace on my linux server. At the same time, I build a visual code server. I could access this code server anywhere. The coder server will save the status of editing. Just continue my article anywhere. Comparing to setup the env in a sepcific laptop, I only could edit and deploy on that laptop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>写作</title>
+      <link>https://shizhou91.github.io/posts/develop-writing-habit/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://shizhou91.github.io/posts/develop-writing-habit/</guid>
+      <description>&lt;h2 id=&#34;为什么有这篇文章&#34;&gt;为什么有这篇文章&lt;/h2&gt;
+&lt;p&gt;希望自己加强写作的习惯，我觉得写作对我的生活产生影响&lt;/p&gt;
+&lt;h2 id=&#34;休闲&#34;&gt;休闲&lt;/h2&gt;
+&lt;p&gt;现在的休闲方式对大脑的刺激太大，和太零碎了。 比如游戏和手机，玩了一段时间之后，反而觉得越来越累了，并且玩游戏和刷手机，屏幕变化太大了，对眼睛损伤太大了，甚至可以说这并不是一种真正的休闲。&lt;/p&gt;
+&lt;h2 id=&#34;美&#34;&gt;美&lt;/h2&gt;
+&lt;p&gt;当你写文一个东西的时候，看到其排版，你会觉得非常的漂亮，很美丽。每个段落都有了意义，不仅仅是一堆文字了。每次我看到一篇好的文章的时候，刚一眼过去，排版就会吸引到我。&lt;/p&gt;
+&lt;h2 id=&#34;思考&#34;&gt;思考&lt;/h2&gt;
+&lt;p&gt;每天我们的大脑都会不停的运行，而很多天马行空的想法并没有对我们的生活产生改变。很多的思绪没有想多久就会被打断了。所以就会导致思想走的欠，不够深。其实聊天和讨论是一个可以成长的地方。这个可以在一来一回，可以让思考走的更远一些。但是讨论也只是一时相反，很多时候的聊天也都是车轱辘话，和一时兴起，很难形成一个有意义的讨论。工作中的讨论其实是一种很有意义的讨论，可以帮助我们走的深一点。所以工作是我们非常难得的场景，可以让在思考的路上走的远一些。但是这并不是常有的机会。所以写作给了我们这个机会，在没有人相互讨论的情况下，我们可以让思考走的更远一些。我入我在这儿思考写作对我的好处。&lt;/p&gt;</description>
     </item>
     <item>
       <title>Build homepage on Github pages with Hugo Framework</title>
