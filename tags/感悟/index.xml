@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>感悟 on Shizhou Homepage</title>
+    <link>https://shizhou91.github.io/tags/%E6%84%9F%E6%82%9F/</link>
+    <description>Recent content in 感悟 on Shizhou Homepage</description>
+    <generator>Hugo -- 0.147.9</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://shizhou91.github.io/tags/%E6%84%9F%E6%82%9F/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>积累</title>
+      <link>https://shizhou91.github.io/posts/accumulate-knowledge/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://shizhou91.github.io/posts/accumulate-knowledge/</guid>
+      <description>&lt;p&gt;很多工具，当不断的累积熟练之后，会慢慢的体会到作者的意图，然后会慢慢的融入到自己的生活和工作中，从而带来工作和生活的便利。&lt;/p&gt;
+&lt;h2 id=&#34;专注于一个工具&#34;&gt;专注于一个工具&lt;/h2&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -6,8 +6,16 @@
     <description>Recent content in Posts on Shizhou Homepage</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Jul 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://shizhou91.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>积累</title>
+      <link>https://shizhou91.github.io/posts/accumulate-knowledge/</link>
+      <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://shizhou91.github.io/posts/accumulate-knowledge/</guid>
+      <description>&lt;p&gt;很多工具，当不断的累积熟练之后，会慢慢的体会到作者的意图，然后会慢慢的融入到自己的生活和工作中，从而带来工作和生活的便利。&lt;/p&gt;
+&lt;h2 id=&#34;专注于一个工具&#34;&gt;专注于一个工具&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>自画像</title>
       <link>https://shizhou91.github.io/posts/expected_self_image/</link>
@@ -52,7 +60,8 @@
       <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://shizhou91.github.io/posts/develop-reading-habit/</guid>
       <description>&lt;p&gt;阅读对于我来说有百利而无一害。&lt;/p&gt;
-&lt;h2 id=&#34;拓宽生活的宽度&#34;&gt;拓宽生活的宽度&lt;/h2&gt;</description>
+&lt;h2 id=&#34;拓宽生活的广度和深度&#34;&gt;拓宽生活的广度和深度&lt;/h2&gt;
+&lt;h2 id=&#34;体验上帝视角&#34;&gt;体验上帝视角&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Build homepage on Github pages with Hugo Framework</title>
