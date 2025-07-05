@@ -2,26 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://shizhou91.github.io/posts/dify%E4%BD%BF%E7%94%A8%E5%BF%83%E5%BA%95/</loc>
-    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://shizhou91.github.io/posts/</loc>
-    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shizhou91.github.io/</loc>
-    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shizhou91.github.io/tags/</loc>
-    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://shizhou91.github.io/tags/tech/</loc>
-    <lastmod>2025-01-18T00:00:00+00:00</lastmod>
+    <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shizhou91.github.io/tags/%E4%B8%AA%E4%BA%BA/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shizhou91.github.io/posts/expected_self_image/</loc>
     <lastmod>2024-10-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://shizhou91.github.io/tags/tech/</loc>
+    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://shizhou91.github.io/posts/why-i-need-a-home-server/</loc>
     <lastmod>2024-09-28T00:00:00+00:00</lastmod>
