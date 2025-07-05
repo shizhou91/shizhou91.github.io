@@ -16,5 +16,32 @@
       <description>&lt;p&gt;今天学习使用了dify，感觉现在的AI的工具仍然不是非常的成熟。但是可以看到很多人是非常想要自己的一个agent，包含了自己的信息。
 很多工具真的是，就是看了一眼，后面就很少使用了。&lt;/p&gt;</description>
     </item>
+    <item>
+      <title>Why I Need a Home Server</title>
+      <link>https://shizhou91.github.io/posts/why-i-need-a-home-server/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://shizhou91.github.io/posts/why-i-need-a-home-server/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;I build a pretty small home server with ubuntu os. The mainly usage are self hobby development and entertainment.&lt;/p&gt;
+&lt;h3 id=&#34;writing&#34;&gt;Writing&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s more easy to writing every where. I build a website with Hugo and Github pages. Then I set the set workspace on my linux server. At the same time, I build a visual code server. I could access this code server anywhere. The coder server will save the status of editing. Just continue my article anywhere. Comparing to setup the env in a sepcific laptop, I only could edit and deploy on that laptop.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Build homepage on Github pages with Hugo Framework</title>
+      <link>https://shizhou91.github.io/posts/build-homepage-with-hugo-github-pages/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>https://shizhou91.github.io/posts/build-homepage-with-hugo-github-pages/</guid>
+      <description>&lt;h2 id=&#34;instruction&#34;&gt;Instruction&lt;/h2&gt;
+&lt;p&gt;Here is how to setup a homepage hosted in the Github pages with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;install-hugo&#34;&gt;Install Hugo&lt;/h2&gt;
+&lt;p&gt;Please follow this &lt;a href=&#34;https://gohugo.io/installation/&#34;&gt;link&lt;/a&gt; to install Hugo. My platform is Ubuntu and I use the following command line installing Hugo&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;sudo snap install hugo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;create-the-static-website&#34;&gt;Create the static website&lt;/h2&gt;
+&lt;p&gt;Use the &lt;code&gt;hugo&lt;/code&gt; command to create your static website.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo new site homepage --format yaml
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Run the below command to have a test locally.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Run the following command line to generate the static file&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
