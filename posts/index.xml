@@ -14,7 +14,10 @@
       <pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
       <guid>https://shizhou91.github.io/posts/accumulate-knowledge/</guid>
       <description>&lt;p&gt;很多工具，当不断的累积熟练之后，会慢慢的体会到作者的意图，然后会慢慢的融入到自己的生活和工作中，从而带来工作和生活的便利。&lt;/p&gt;
-&lt;h2 id=&#34;专注于一个工具&#34;&gt;专注于一个工具&lt;/h2&gt;</description>
+&lt;h2 id=&#34;专注于一个工具&#34;&gt;专注于一个工具&lt;/h2&gt;
+&lt;h2 id=&#34;一些例子&#34;&gt;一些例子&lt;/h2&gt;
+&lt;h3 id=&#34;静态网站生成器&#34;&gt;静态网站生成器&lt;/h3&gt;
+&lt;p&gt;以前我玩过很多静态网站生成器，比如&lt;a href=&#34;https://jekyllrb.com/&#34;&gt;Jekyll&lt;/a&gt;， Hexo，Hugo。这个网站我是用Hugo搭建的。但我没有变的是，一只像通过一个网站，来写一些东西。我现在拥有一个mac和一个ubuntu server 小主机。ubuntu里面包含了hugo的配置。然后写了一个脚本，让在obsidian上面写的东西，通过一个脚本，就可以发布。还有一种方案是在vs code上面写作，然后就可以直接用git push。但是vs code用来写博客没有obsidian的体验有。这种降低门槛的方式，有利于我们去写作，去发布东西。&lt;/p&gt;</description>
     </item>
     <item>
       <title>自画像</title>
